@@ -1,7 +1,7 @@
 
-# GTRACER
-#### GTRACER, April 1st 2019
-#### By **Peter Wachira**
+# GITHUB TRACKER
+
+#### Brian nyachae
 
 #### Screenshot 1
 

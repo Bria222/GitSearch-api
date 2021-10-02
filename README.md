@@ -7,9 +7,7 @@
 
 ![](screenshots/screenshotang.png)
 
-#### Screenshot 2
 
-![](screenshots/screenshotang2.png)
 
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)

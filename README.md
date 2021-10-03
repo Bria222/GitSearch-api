@@ -5,8 +5,6 @@
 
 #### Screenshot 1
 
-![](screenshots/screenshotang.png)
-
 
 
 
